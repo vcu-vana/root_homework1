@@ -1,10 +1,10 @@
 # Homework 1 - Week 3
 
-![Python package](https://github.com/vcu-vana/root_homework1/workflows/Python%20package/badge.svg)
+![Python package]<https://github.com/vcu-vana/root_homework1/workflows/Python%20package/badge.svg>
 
-![Pylint](https://github.com/vcu-vana/root_homework1/workflows/Pylint/badge.svg)
+![Pylint]<https://github.com/vcu-vana/root_homework1/workflows/Pylint/badge.svg>
 
-![Super-Linter](https://github.com/vcu-vana/root_homework1/workflows/Super-Linter/badge.svg)
+![Super-Linter]<https://github.com/vcu-vana/root_homework1/workflows/Super-Linter/badge.svg>
 
 For your homework, fork this repository to your account.
 
@@ -24,4 +24,4 @@ https://github.com/vcu-vana/root_homework1
 
 but
 
-https://github.com/vana/root_homework1
+https://github.com/vcu-vana/root_homework1
