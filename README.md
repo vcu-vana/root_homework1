@@ -5,4 +5,3 @@
 ![Pylint](https://github.com/vcu-vana/root_homework1/workflows/Pylint/badge.svg)
 
 ![Super-Linter](https://github.com/vcu-vana/root_homework1/workflows/Super-Linter/badge.svg)
-
